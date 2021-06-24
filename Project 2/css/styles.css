@@ -1,0 +1,57 @@
+.option-image
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 10%;
+width: 25%;
+}
+
+.option-body
+{
+  text-align: center;
+
+}
+
+.option-row2
+{
+  margin-top: 5%;
+}
+
+.our-productss-tag
+{
+margin-left: 5%;
+}
+
+.option-main
+{
+width: 80%;
+height: 100%;
+border-radius: 1.30vw;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.option-main:hover
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.mid-container-title
+{
+  color: grey;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.mid-menu-tab
+{
+  margin-left: 5%;
+  margin-top: 3%;
+
+}
+
+.mid-menu-tab-title
+{
+  margin-left: 5%;
+  margin-top: 3%;
+
+}
