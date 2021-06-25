@@ -55,3 +55,23 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin-top: 3%;
 
 }
+
+.learning-image
+{
+  width: 40%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.learning-main
+{
+background-color: #F5F5F5;
+border-radius: 1.30vw;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.learning-main:hover
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
